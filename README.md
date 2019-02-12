@@ -31,11 +31,11 @@ yarn global add node-sass
 ## Run
 
 ``` bash
-node-sass --output-style compressed resources/sass/main.sass css/main.css
+node-sass --output-style compressed sass/main.sass css/main.css
 ```
 
 ## Watch: Autocompile if it detects changes 
 
 ``` bash
-node-sass --watch --source-map true --output-style compressed resources/sass/main.sass css/main.css
+node-sass --watch --source-map true --output-style compressed sass/main.sass css/main.css
 ```
