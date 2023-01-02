@@ -14,8 +14,8 @@ sass/
 |   |– _contact.sass     
 |   ...                  
 |– vendors/              
-|   |– _bootstrap.sass   
-|   |– _jquery-ui.sass   
+|   |– _normalize.sass       
+|   |– _owl-carousel.sass  
 |   ...                  
 `– main.sass             
 ```
